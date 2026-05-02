@@ -1,0 +1,19 @@
+{
+  "name": "raylex-ticket",
+  "version": "2.0.0",
+  "description": "Aze RolePlay için gelişmiş Discord ticket sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "ticket", "roleplay", "azeri", "bot"],
+  "author": "MarvelCode ❤️ RaylexDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "discord-html-transcripts": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
