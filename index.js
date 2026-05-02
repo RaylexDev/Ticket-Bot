@@ -1,13 +1,3 @@
-// ╔══════════════════════════════════════════════════════════════════╗
-// ║          🎫 Raylex Ticket Sistemi — Tek Dosya Bot               ║
-// ║              Termux & VPS Uyumlu — discord.js v14               ║
-// ╚══════════════════════════════════════════════════════════════════╝
-//
-// 👨‍💻 Geliştirici : MarvelCode ❤️ RaylexDev
-// 🌐 GitHub       : github.com/RaylexDev
-// 📦 Bağımlılıklar: discord.js, discord-html-transcripts
-//
-
 "use strict";
 
 // ═══════════════════════════════════════════════
