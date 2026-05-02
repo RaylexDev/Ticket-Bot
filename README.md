@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Aze RolePlay sunucuları için geliştirilmiş, tek dosya Discord ticket botu.</b><br>
+  <b>discord sunucuları için geliştirilmiş, tek dosya Discord ticket botu.</b><br>
   Termux ve VPS üzerinde çalışır. discord.js v14 Components V2 kullanır.
 </p>
 
